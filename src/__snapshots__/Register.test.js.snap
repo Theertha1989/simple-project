@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Register should display existing added users 1`] = `ShallowWrapper {}`;
+
+exports[`Register should fetch users 1`] = `ShallowWrapper {}`;
+
+exports[`Register should render Register Component 1`] = `ShallowWrapper {}`;
+
+exports[`Register shouldnot display existing added users 1`] = `ShallowWrapper {}`;
